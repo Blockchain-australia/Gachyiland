@@ -1223,7 +1223,7 @@ nav .navbar-nav .nav-item .nav-link {
 }
 .progress__island .vertical {
   position: absolute;
-  bottom: -200px;
+  bottom: 0px;
   left: 50%;
   transform: translateX(-50%);
   max-width: 1300px;
